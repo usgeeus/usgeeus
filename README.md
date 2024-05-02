@@ -4,7 +4,7 @@
 ### Connect with me:
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-<!-- [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram] -->
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram] 
 -->
 [website]: [https://velog.io/@imysh578](https://medium.com/@usgeeus)
 [linkedin]: [https://linkedin.com/in/](https://www.linkedin.com/in/euisin-gee-587640229/)
